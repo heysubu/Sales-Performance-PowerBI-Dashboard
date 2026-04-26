@@ -131,9 +131,8 @@ Want to connect your own data?
 
 ## 📞 Contact
 
-- 🐙 GitHub: [heysubu](https://github.com/heysubu)
-- 📧 Email: suubhamghadge@gmail.com
-- 💼 LinkedIn: [Subham Ghadge](https://www.linkedin.com/in/subhamghadge/)
+- 🐙 [**GitHub**](https://github.com/heysubu)
+- 💼 [**LinkedIn**](https://www.linkedin.com/in/subhamghadge/)
 
 ---
 
